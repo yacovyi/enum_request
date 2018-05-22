@@ -1,0 +1,1 @@
+http://localhost:5601/app/kibana#/visualize/edit/EnumRequestVisualization?_g=(refreshInterval%3A('%24%24hashKey'%3A'object%3A1302'%2Cdisplay%3A'5%20seconds'%2Cpause%3A!f%2Csection%3A1%2Cvalue%3A5000)%2Ctime%3A(from%3Anow-5m%2Cmode%3Arelative%2Cto%3Anow))
